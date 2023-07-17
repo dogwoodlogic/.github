@@ -19,6 +19,9 @@ assignees: ''
 ## Possible Implementation
 <!--- Not obligatory, but suggest an idea for implementing addition or change -->
 
+## Risks and Mitigation
+<!-- Potential risks with feature request, suggest fallbacks or alternatives -->
+
 ## Environment
 <!--- Include as many relevant details about the environment you experienced the bug in -->
 * Version: **x.x.x**
